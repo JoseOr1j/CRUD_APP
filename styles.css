@@ -36,7 +36,7 @@ input[type='submit'], button, [aria-label]
 
 td
 {
-    background-color: aliceblue;
+    background-color: skyblue;
     padding-right: 10px;
     text-align: left;
 }
@@ -44,4 +44,7 @@ td
 .to-do
 {
     background: transparent !important;
+    padding-right: 10px;
+    text-align: center;
+    background-color: aquamarine;
 }
